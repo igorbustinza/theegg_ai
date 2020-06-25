@@ -72,3 +72,31 @@ Es un ordenador de bajo coste y tamaño reducido, tanto es así que cabe en la pal
 **Arduino** 
 
 Es una compañía de desarrollo de software y hardware libre, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos del mundo real. 
+
+###TAREA 14
+
+**Compilador**
+
+Un compilador es un programa informático que traduce un programa escrito en un lenguaje de programación a otro lenguaje de programación. Usualmente el segundo lenguaje es lenguaje de máquina, pero también puede ser un código intermedio (bytecode), o simplemente texto. 
+
+**Intérprete**
+
+Es un programa informático capaz de analizar y ejecutar otros programas escritos en un lenguaje de alto nivel. Los intérpretes se diferencian de los compiladores en que sólo realizan la traducción a medida que sea necesaria, típicamente, instrucción por instrucción, y normalmente no guardan el resultado de dicha traducción. 
+
+**Lenguaje de programación**
+
+Es un idioma artificial diseñado para expresar computaciones que pueden ser llevadas a cabo por máquinas como las computadoras. Pueden usarse para crear programas que controlen el comportamiento físico y lógico de una máquina, para expresar algoritmos con precisión, o como modo de comunicación humana. 
+
+**Editor de código**
+
+Los editores de código son las herramientas que todo desarrollador debe tener a mano. Permiten editar código fuente en diversos lenguajes de programación y ofrecen múltiples herramientas para facilitar el trabajo y aumentar la productividad.
+
+**Lenguaje de alto nivel**
+
+Es aquel que se aproxima más al lenguaje natural humano que al lenguaje binario de las computadoras, el que se conoce como lenguaje de bajo nivel.
+
+**Lenguaje de máquina**
+
+Es el conjunto de datos que la parte física de la computadora (Hardware) es capaz de comprender e interpretar “El Código Binario” comprendido por los Valores 0 y 1 con tensiones comprendidas entre 0 y 4 Voltios y 4 y 5 Voltios respectivamente, la secuencias de estos valores formaran cadenas de información para que se realice una instrucción.
+
+
