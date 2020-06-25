@@ -99,4 +99,47 @@ Es aquel que se aproxima más al lenguaje natural humano que al lenguaje binario 
 
 Es el conjunto de datos que la parte física de la computadora (Hardware) es capaz de comprender e interpretar “El Código Binario” comprendido por los Valores 0 y 1 con tensiones comprendidas entre 0 y 4 Voltios y 4 y 5 Voltios respectivamente, la secuencias de estos valores formaran cadenas de información para que se realice una instrucción.
 
+###TAREA 15
+
+**Lenguaje de programación**
+
+Es un idioma artificial diseñado para expresar computaciones que pueden ser llevadas a cabo por máquinas como las computadoras. Pueden usarse para crear programas que controlen el comportamiento físico y lógico de una máquina, para expresar algoritmos con precisión, o como modo de comunicación humana. 
+
+**Python**
+
+Python es un lenguaje de programación del tipo interpretativo, que usa un código muy legible, de una filosofía de desarrollo con una sintaxis de entendimiento muy limpia, por estar muy cerca del lenguaje natural.
+
+**R**
+
+R es un entorno de programación formado por un conjunto de herramientas muy flexibles que pueden ampliarse fácilmente mediante paquetes, librerías o definiendo nuestras propias funciones. Además es gratuito y de código abierto, un Open Source parte del proyecto GNU, como Linux o Mozilla Firefox. 
+
+**LISP**
+
+Es un lenguaje que muestra la información estructurada en listas en las que se pueden gestionar la información que estas contienen. De ahí el nombre que se le dió a este lenguaje, Lisp (List-Processing), porque fue creado principalmente para el procesamiento de listas. Es un lenguaje funcional que se apoya en la utilización de funciones matemáticas para el control de los datos. Pero el elemento fundamental en el Lisp es la lista. Y desde el punto de vista más amplio del término. Cada función del lisp y cada programa que se genera con él vienen dado en forma de lista. Por esta razón los datos no se pueden diferenciar sintácticamente de los programas. 
+
+**JAVA**
+
+Java es un lenguaje de programación con el que podemos realizar cualquier tipo de programa. En la actualidad es un lenguaje muy extendido y cada vez cobra más importancia tanto en el ámbito de Internet como en la informática en general. Fue creado inicialmente por la compañía Sun Microsystems con gran dedicación y siempre enfocado a cubrir las necesidades tecnológicas más punteras. Actualmente se encuentra en propiedad de Oracle, después que ésta adquiriera a Sun. 
+
+**Lenguaje de alto nivel**
+
+Es aquel que se aproxima más al lenguaje natural humano que al lenguaje binario de las computadoras, el que se conoce como lenguaje de bajo nivel.
+
+**Lenguaje de bajo nivel**
+
+Un lenguaje de bajo nivel es aquel que expone al programador a las operaciones de la máquina, sin aportar construcciones propias. Es decir, en los lenguajes de bajo nivel será posible hacer todo lo que el equipo sea capaz de hacer, pero para lograrlo el programador tendrá que estar familiarizado íntimamente con los detalles de la electrónica en que corre su programa.
+
+**Lenguaje compilado**
+
+Un programa escrito en un lenguaje "compilado" se traduce a través de un programa anexo llamado compilador que, a su vez, crea un nuevo archivo independiente que no necesita ningún otro programa para ejecutarse a sí mismo. Este archivo se llama ejecutable.
+
+**Lenguaje compilado**
+
+Un programa escrito en un lenguaje "compilado" se traduce a través de un programa anexo llamado compilador que, a su vez, crea un nuevo archivo independiente que no necesita ningún otro programa para ejecutarse a sí mismo. Este archivo se llama ejecutable.
+
+
+**Lenguaje interpretado**
+
+Es el lenguaje cuyo código no necesita ser preprocesado mediante un compilador, eso significa que el ordenador es capaz de ejecutar la sucesión de instrucciones dadas por el programador sin necesidad de leer y traducir exhaustivamente todo el código. 
+
 
