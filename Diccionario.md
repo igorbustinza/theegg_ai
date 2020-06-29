@@ -152,4 +152,40 @@ Los sistemas de control de versiones son una categoría de herramientas de softwa
 
  Es un sitio web y un servicio en la nube que ayuda a los desarrolladores a almacenar y administrar su código, al igual que llevar un registro y control de cualquier cambio sobre este código.
 
+###TAREA 17
 
+**Lenguaje de programación**
+
+Es un idioma artificial diseñado para expresar computaciones que pueden ser llevadas a cabo por máquinas como las computadoras. Pueden usarse para crear programas que controlen el comportamiento físico y lógico de una máquina, para expresar algoritmos con precisión, o como modo de comunicación humana. 
+
+**Javascript**
+
+Javascript es un lenguaje de programación que permite llevar a cabo actividades tanto simples como complejas en páginas web. Es un sistema que goza de la peculiaridad de no necesitar compilación alguna, ya que son los propios navegadores los que se encargan de leer el código para asimilarlo y llevar a cabo las acciones que este indica. A día de hoy es el estándar cuando se quieren plantear mecanismos más complicados de lo habitual en una web.
+
+**Python**
+
+Python es un lenguaje de programación del tipo interpretativo, que usa un código muy legible, de una filosofía de desarrollo con una sintaxis de entendimiento muy limpia, por estar muy cerca del lenguaje natural.
+
+**PHP**
+
+PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML. 
+
+**JAVA**
+
+Java es un lenguaje de programación con el que podemos realizar cualquier tipo de programa. En la actualidad es un lenguaje muy extendido y cada vez cobra más importancia tanto en el ámbito de Internet como en la informática en general. Fue creado inicialmente por la compañía Sun Microsystems con gran dedicación y siempre enfocado a cubrir las necesidades tecnológicas más punteras. Actualmente se encuentra en propiedad de Oracle, después que ésta adquiriera a Sun. 
+
+**HTML**
+
+HTML es el lenguaje con el que se define el contenido de las páginas web. Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, vídeos, etc. 
+
+**CSS**
+
+CSS (en inglés Cascading Style Sheets) es lo que se denomina lenguaje de hojas de estilo en cascada y se usa para estilizar elementos escritos en un lenguaje de marcado como HTML. CSS separa el contenido de la representación visual del sitio.
+
+**R**
+
+R es un entorno de programación formado por un conjunto de herramientas muy flexibles que pueden ampliarse fácilmente mediante paquetes, librerías o definiendo nuestras propias funciones. Además es gratuito y de código abierto, un Open Source parte del proyecto GNU, como Linux o Mozilla Firefox. 
+
+**SQL**
+
+SQL (Structured Query Language) es un lenguaje de programación estándar e interactivo para la obtención de información desde una base de datos y para actualizarla. Aunque SQL es a la vez un ANSI y una norma ISO, muchos productos de bases de datos soportan SQL con extensiones propietarias al lenguaje estándar. Las consultas toman la forma de un lenguaje de comandos que permite seleccionar, insertar, actualizar, averiguar la ubicación de los datos, y más. También hay una interfaz de programación.
