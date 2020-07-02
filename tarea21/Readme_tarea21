@@ -1,0 +1,11 @@
+
+**Explicación**
+
+El programa pide que se introduzca un número entre 0.0001 y 0.9999
+
+Hace una comprobación de que el número está en ese rango.
+
+Una vez tiene el número correcto calcula la fracción irreducible, primero pasa el múmero a fracción, cómo tiene 4 decimales multiplica por 10000 y será el numerador, para que el valor no cambie utiliza 10000 como denominador.
+
+Asigna el valor del numerador a una variable divisor y mediante un bucle divide el numerador y el denominador por ese divisor, si el resto de ammbas divisiones no es 0, resta uno al divisior y vuelve a dividir, así hasta que el resto de ambas divisiones sea 0.
+
