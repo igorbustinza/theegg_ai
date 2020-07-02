@@ -189,3 +189,13 @@ R es un entorno de programación formado por un conjunto de herramientas muy flex
 **SQL**
 
 SQL (Structured Query Language) es un lenguaje de programación estándar e interactivo para la obtención de información desde una base de datos y para actualizarla. Aunque SQL es a la vez un ANSI y una norma ISO, muchos productos de bases de datos soportan SQL con extensiones propietarias al lenguaje estándar. Las consultas toman la forma de un lenguaje de comandos que permite seleccionar, insertar, actualizar, averiguar la ubicación de los datos, y más. También hay una interfaz de programación.
+
+###TAREA 21
+
+**Algoritmo**
+
+Un algoritmo informático es una secuencia de instrucciones finitas que llevan a cabo una serie de procesos para dar respuesta a determinados problemas. Es decir, un algoritmo informático resuelve cualquier problema a través de unas instrucciones y reglas concisas, mostrando el resultado obtenido.
+
+**Diagrama de flujo**
+
+Un diagrama de flujo es una forma esquemática de representar ideas y conceptos en relación. A menudo, se utiliza para especificar algoritmos de manera gráfica. 
