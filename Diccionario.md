@@ -199,3 +199,14 @@ Un algoritmo informático es una secuencia de instrucciones finitas que llevan a 
 **Diagrama de flujo**
 
 Un diagrama de flujo es una forma esquemática de representar ideas y conceptos en relación. A menudo, se utiliza para especificar algoritmos de manera gráfica. 
+
+###TAREA 22
+
+**Ada Lovelace**
+
+Ada Lovelace, la única hija legítima del poeta Lord Byron, fue una brillante entusiasta de las matemáticas que anticipó el enorme potencial de las computadoras cuando aún solo se habían creado las primeras calculadoras mecánicas. Sin embargo, ahora nuevos datos vienen a confirmar lo que muchos expertos ya sostenían: pese al innegable valor de sus aportaciones, la idea extendida de que fue la autora del primer programa informático de la historia es solo un mito.
+
+**Bucles**
+
+También denominado lazo, ciclo o instrucción de repetición. Es una estructura de control que permite la repetición de una serie determinada de sentencias. El cuerpo del bucle contiene las sentencias que se repiten. La acción o acciones que se repiten en un bucle se denominan el cuerpo del bucle.
+
