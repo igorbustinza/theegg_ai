@@ -210,3 +210,6 @@ Ada Lovelace, la única hija legítima del poeta Lord Byron, fue una brillante ent
 
 También denominado lazo, ciclo o instrucción de repetición. Es una estructura de control que permite la repetición de una serie determinada de sentencias. El cuerpo del bucle contiene las sentencias que se repiten. La acción o acciones que se repiten en un bucle se denominan el cuerpo del bucle.
 
+**Lenguaje de programación**
+
+Es un idioma artificial diseñado para expresar computaciones que pueden ser llevadas a cabo por máquinas como las computadoras. Pueden usarse para crear programas que controlen el comportamiento físico y lógico de una máquina, para expresar algoritmos con precisión, o como modo de comunicación humana. 
