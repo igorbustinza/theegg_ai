@@ -213,3 +213,17 @@ También denominado lazo, ciclo o instrucción de repetición. Es una estructura de
 **Lenguaje de programación**
 
 Es un idioma artificial diseñado para expresar computaciones que pueden ser llevadas a cabo por máquinas como las computadoras. Pueden usarse para crear programas que controlen el comportamiento físico y lógico de una máquina, para expresar algoritmos con precisión, o como modo de comunicación humana. 
+
+###TAREA 23
+
+**Algoritmo de cifrado simétrico**
+
+Significa que dos o más usuarios, tienen una única clave secreta, esta clave será la que cifrará y descifrará la información transmitida a través del canal inseguro. Es decir, la clave secreta la deben tener los dos usuarios, y con dicha clave, el usuario A cifrará la información, la mandará a través del canal inseguro, y a continuación el usuario B descifrará esa información con la MISMA clave que ha usado el usuario A.
+
+**Algoritmo de cifrado asimétrico**
+
+Fueron creados con la finalidad de dar solución al problema de intercambio de la clave secreta de los sistemas de cifrado simétricos, el cifrado asimétrico también conocido como de doble clave o de clave pública consiste en utilizar dos claves, una para cifrar y otra para descifrar.
+
+**Funciones en programación**
+
+Son un elemento muy utilizado en la programación. Empaquetan y ‘aíslan’ del resto del programa, una parte de código que realiza alguna tarea específica. Son por tanto un conjunto de instrucciones que ejecutan una tarea determinada y que hemos encapsulado en un formato estándar para que nos sea muy sencillo de manipular y reutilizar.
