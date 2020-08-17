@@ -1,0 +1,9 @@
+
+**Tarea 22**
+
+La solución ha sido programada en Python.
+
+En un primer momento busqué todas las combinaciones posibles de pesos que entrarán en el camión, pero fallaba en el caso de que dos vacas pesaran lo mismo y dieran diferente cantidad de leche. 
+
+Googleando fuí a parar a los ejemplos de solución del problema de la mochila, probé varios de ellos y finalmente me quedé con este donde los vectores pre y pos almacenan la cantidad máxima de leche posible para cada lista de decisiones. Al terminar,el elemento pos[C] (C - peso del camión) contiene la cantidad máxima de leche para ese ejemplo.
+
