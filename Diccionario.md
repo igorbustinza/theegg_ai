@@ -176,8 +176,27 @@ Fueron creados con la finalidad de dar solución al problema de intercambio de la
 **Funciones en programación**
 Son un elemento muy utilizado en la programación. Empaquetan y ‘aíslan’ del resto del programa, una parte de código que realiza alguna tarea específica. Son por tanto un conjunto de instrucciones que ejecutan una tarea determinada y que hemos encapsulado en un formato estándar para que nos sea muy sencillo de manipular y reutilizar.
 
+###TAREA 25
 
+**Arquitectura cliente servidor**
+La arquitectura cliente/servidor persigue el objetivo de procesar la información de un modo distribuido. De esta forma, los usuarios finales pueden estar dispersos en un área geográfica más o menos extensa (un edificio, una localidad, un país, …) y acceder a un conjunto común de recursos compartidos.
 
+**FTP**
+Se llama FTP (File Transfer Protocol o Protocolo de Transferencia de Archivos), a la serie de reglas sobre la transferencia de archivos que se da mediante un sistema conectado con el TCP o Protocolo de Control de Transmisión, que permite el envío de los archivos sin que se presenten errores. Este está basado en la arquitectura cliente-servidor; un modelo en el que diversas tareas son repartidas entre el servidor y el cliente.
+
+**Servidor Web**
+Un servidor Web es un programa que utiliza HTTP (Hypertext Transfer Protocol) para servir los archivos que forman páginas Web a los usuarios, en respuesta a sus solicitudes, que son reenviados por los clientes HTTP de sus computadoras. Las computadoras y los dispositivos dedicados también pueden denominarse servidores Web.
+
+El proceso es un ejemplo del modelo cliente / servidor. Todos los equipos que alojan sitios Web deben tener programas de servidor Web. Los principales servidores Web incluyen Apache (el servidor Web más conocido e instalado), Internet Information Server ( IIS ) de Microsoft y nginx (pronunciado motor X ) de NGNIX. Otros servidores Web incluyen el servidor NetWare de Novell, el servidor web de Google (GWS) y la familia de servidores Domino de IBM.
+
+**IP**
+IP es la sigla de Internet Protocol o, en nuestro idioma, Protocolo de Internet. Se trata de un estándar que se emplea para el envío y recepción de información mediante una red que reúne paquetes conmutados.
+
+**DNS**
+El proceso de traducción de los nombres de dominio en direcciones numéricas que las máquinas puedan entender es lo que se conoce como resolución de nombres, una labor que realiza el Domain Name System, en castellano Sistema de Nombres de Dominio, conocido por sus siglas DNS.
+
+**Protocolo TCP/IP**
+Se denomina protocolo al conjunto de normas y reglas que sirven para guiar un proceso o una acción. TCP e IP, en tanto, son siglas que refieren a dos protocolos claves en Internet. TCP proviene de transmission control protocol, expresión que puede traducirse como “protocolo de control de transmisión”. IP, en tanto, es Internet protocol o “protocolo de Internet”.
 
 
 
