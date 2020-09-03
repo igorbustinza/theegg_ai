@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 **Tarea 22**
 
@@ -21,3 +22,28 @@ El algoritmo va toma el peso de la primera vaca y comprueba que combinaciones pu
 
 
 
+=======
+
+**Tarea 22**
+
+La solución ha sido programada en Python.
+
+En un primer momento busqué todas las combinaciones posibles de pesos que entrarán en el camión, pero fallaba en el caso de que dos vacas pesaran lo mismo y dieran diferente cantidad de leche. 
+
+Googleando fuí a parar a los ejemplos de solución del problema de la mochila, probé varios de ellos y finalmente me quedé con este donde los vectores pre y pos almacenan la cantidad máxima de leche posible para cada lista de decisiones. Al terminar,el elemento pos[C] (C - peso del camión) contiene la cantidad máxima de leche para ese ejemplo.
+
+En este link aparecen diferentes algoritmos para solucionar el problema.
+
+https://ocw.ehu.eus/pluginfile.php/9412/mod_resource/content/1/05_Programacion_Dinamica/05_Programacion_Dinamica.pdf
+
+El que he utilizado yo es la "Versión de programación dinámica (4)"
+
+Y en este otro link podemos encontrar un video donde explica perfectamente el funcionamiento del algoritmo.
+
+https://www.youtube.com/watch?v=IZHvQTx2bZ0
+
+El algoritmo va toma el peso de la primera vaca y comprueba que combinaciones pueden darse y de estas, se queda con la que más cantidad de leche obtendría, después hace lo mismo con la siguiente y si alguna combinación da más leche se queda con ella, y así con todas las vacas.
+
+
+
+>>>>>>> 5a32b85b7269fa9df07f4ea2f3874f6d32430168
