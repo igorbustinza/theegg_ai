@@ -1,0 +1,16 @@
+##Tarea 23
+
+He intentado meter muchos comentarios en el código para que quede bastante claro, así que no me voy a extender demasiado aquí.
+
+Para simular la baraja de cartas he creado un diccionario con las cartas y su valor correspondientes y una lista sólo con las cartas para poder barajearla y utilizarla en el algoritmo del solitario.
+
+Una vez introducido el texto a cifrar, lo pasamos a mayúsculas y quitamos los espacios en blanco. Llamamos a un función (cifra_descifra) a la que pasamos el texto a cifrar, la lista de cartas barajeada y un 1 para indicar que vamos a cifrar el texto.
+
+Dentro de esta función llamamos a otra (valor_numerico_texto) a la que pasamos el texto a cifrar y que nos devuelve los valores numéricos de cada una de las letras que componen el texto a cifrar. Posteriormente llamamos a la función (solitario) que nos va a devolver las claves que genera el algoritmo del solitario. Una vez tenemos esas claves sumamos cada una de ellas a los valores numéricos de las letras que componen el texto a cifrar, siguiendo los pasos del algoritmo llegamos a los valores numéricos que compondran el texto cifrado. Mediante la función valor_texto_numerico convertimos esos valores numéricos en el texto cifrado.
+
+Aparte de la bibliografía me he apoyado mucho en este video para programar esta solución https://www.youtube.com/watch?v=IZHvQTx2bZ0
+
+
+
+
+
