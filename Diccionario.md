@@ -222,3 +222,14 @@ JSON (JavaScript Object Notation) es un formato ligero para el intercambio de da
 
 **Protocolo de comunicación**
 Los protocolos de comunicación son descripciones formales de formatos y reglas de mensajes digitales. Se requieren para intercambiar mensajes entre varios sistemas informáticos y, especialmente, en el mundo de las telecomunicaciones. Los protocolos de comunicaciones cubren autenticación, detección y corrección de errores y señalización. También pueden describir la sintaxis, la semántica y la sincronización de las comunicaciones analógicas y digitales.
+
+###TAREA 36
+
+**Base de datos**
+Una base de datos es una colección de información organizada de forma que un programa de ordenador pueda seleccionar rápidamente los fragmentos de datos que necesite. Una base de datos es un sistema de archivos electrónico. 
+
+**SQL**
+La sigla que se conoce como SQL corresponde a la expresión inglesa Structured Query Language (entendida en español como Lenguaje de Consulta Estructurado), la cual identifica a un tipo de lenguaje vinculado con la gestión de bases de datos de carácter relacional que permite la especificación de distintas clases de operaciones entre éstas.
+
+**NoSQL**
+Estas bases de datos almacenan información de forma dinámica, superando las limitaciones de las estructuras SQL tradicionales y sin sufrir ningún tipo de problema en cuanto a escalabilidad. También entendemos que estas bases de datos almacenan la información de una manera alternativa sin recurrir a las típicas estructuras de tablas, sino optando por otros formatos distintos.
