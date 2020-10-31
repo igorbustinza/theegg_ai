@@ -233,3 +233,33 @@ La sigla que se conoce como SQL corresponde a la expresión inglesa Structured Q
 
 **NoSQL**
 Estas bases de datos almacenan información de forma dinámica, superando las limitaciones de las estructuras SQL tradicionales y sin sufrir ningún tipo de problema en cuanto a escalabilidad. También entendemos que estas bases de datos almacenan la información de una manera alternativa sin recurrir a las típicas estructuras de tablas, sino optando por otros formatos distintos.
+
+###TAREA 37
+
+**Dirección IP**
+Las direcciones IP (IP es un acrónimo para Internet Protocol) son un número único e irrepetible con el cual se identifica un dispositivo conectada a una red que utiliza el protocolo IP. Se representa como una combinación de cuatro números decimales con valores entre 0 y 255 separados por puntos (IPv4), aunque debido a la proliferación de dispositivos conectados a Internet, se han empezado a utilizar seis numeros decimales en lugar de cuatro (IPv6) logrando así muchísimas más combinaciones o direcciones IP posibles.
+
+**Internet**
+Internet es un anglicismo que se forma por la abreviación del término International Network of Computers. Se trata de un sistema de redes interconectadas mediante distintos protocolos que ofrece una gran diversidad de servicios y recursos, como, por ejemplo, el acceso a archivos de hipertexto a través de la web.
+
+**Red WAN**
+WAN son las siglas de Wide Area Network (Red de Área Amplia). El concepto se utiliza para nombrar a la red de dispositivos que se extiende en una gran franja de territorio, ya sea a través de una ciudad, un país o, incluso, a nivel mundial. Un ejemplo de red WAN es la propia Internet.
+
+**Red LAN**
+LAN son las siglas de Local Area Network (Red de Área Local), es una red informática cuyo alcance se limita a un espacio físico reducido, como una casa, un departamento o a lo sumo un edificio.
+
+**Máscara de subred**
+Una máscara de subred es un número que define un rango de Direcciones IP disponible dentro de un red. Una sola máscara de subred limita el número de IP válidas para una red específica. Varias máscaras de subred pueden organizar una sola red en redes más pequeñas (llamadas subredes). Los sistemas dentro de la misma subred pueden comunicarse directamente entre sí, mientras que los sistemas en subredes diferentes deben comunicarse a través de un router.
+
+**Router**
+El router es aquel dispositivo que conecta diferentes computadoras de una misma red de área local, permitiendo el intercambio de paquetes de datos entre los ordenadores que se encuentran en esa red. Además, a través del mismo, los dispositivos pueden conectarse a Internet oa a otros dispositivos conectados en otras redes.
+
+**Switch**
+Un switch o conmutador es un dispositivo que sirve para conectar varios elementos dentro de una red. El switch en esencia sirve para que cada dispositivo conectado mande mensajes o archivos a otro dispositivo concreto. Para hacerlo, el switch lee la dirección MAC de la tarjeta de red del dispositivo, que es como la matrícula con que cada aparato puede ser identificado en una red física.
+
+**TCP/IP**
+TCP e IP, en tanto, son siglas que refieren a dos protocolos claves en Internet. TCP proviene de transmission control protocol, expresión que puede traducirse como “protocolo de control de transmisión”. IP, en tanto, es Internet protocol o “protocolo de Internet”.
+
+
+
+
