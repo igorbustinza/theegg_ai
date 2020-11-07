@@ -260,6 +260,17 @@ Un switch o conmutador es un dispositivo que sirve para conectar varios elemento
 **TCP/IP**
 TCP e IP, en tanto, son siglas que refieren a dos protocolos claves en Internet. TCP proviene de transmission control protocol, expresión que puede traducirse como “protocolo de control de transmisión”. IP, en tanto, es Internet protocol o “protocolo de Internet”.
 
+**IP pública**
+Es la dirección IP que tiene asignada cualquier equipo o dispositivo conectado de forma directa a Internet. Las IP públicas siempre son únicas.
 
+**IP privada**
+Se utiliza para identificar equipos o dispositivos dentro de una red doméstica o privada, es decir, los dispositivos no están conectados directamente a Internet.
 
+###TAREA 39
+
+**Red informática**
+Una red informática es un grupo de computadoras conectadas entre sí, dispuestas para compartir recursos entre ellas.
+
+**Internet**
+Internet es un anglicismo que se forma por la abreviación del término International Network of Computers. Se trata de un sistema de redes interconectadas mediante distintos protocolos que ofrece una gran diversidad de servicios y recursos, como, por ejemplo, el acceso a archivos de hipertexto a través de la web.
 
