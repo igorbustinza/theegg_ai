@@ -1,0 +1,17 @@
+
+**Explicación**
+
+La solución está programada en Python.
+
+El programa pide al usuario un número por teclado y antes de llamar a la función que va a convertir ese número a binario comprobamos que, efectivamente es un número y además entero.
+
+Una vez hecha la comprobación llamamos a la función que va a convertir el número decimal en binario.
+
+En esta función tenemos un bucle en el que dividimos el número a convertir entre 2 y después vamos haciendo lo mismo con los cocientes resultantes de esas divisiones hasta que uno de los cocientes ya no pueda ser divisible entre 2, es decir, sea un 1. 
+
+Para almacenar el número binario resultante de estas divisiones he creado una lista donde voy añadiendo los restos de cada division y el cociente final, para que el orden del código binario sea correcto le doy la vuelta a la lista y la convierto en una cadena de texto que es lo que se muestra en pantalla.
+
+Una vez convertido el número, al usuario se le da la posibilidad de convertir otro, para esto he utilizado otro bucle inicializando una variable (convertir) con el valor "S" de manera que, mientras el usuario siga respondiendo "S" o "s" a la pregunta "¿Quieres convertir otro número?(S/N)" podrá seguir convirtiendo decimales.
+
+
+
