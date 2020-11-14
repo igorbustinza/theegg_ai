@@ -176,6 +176,23 @@ Fueron creados con la finalidad de dar solución al problema de intercambio de l
 **Funciones en programación**
 Son un elemento muy utilizado en la programación. Empaquetan y ‘aíslan’ del resto del programa, una parte de código que realiza alguna tarea específica. Son por tanto un conjunto de instrucciones que ejecutan una tarea determinada y que hemos encapsulado en un formato estándar para que nos sea muy sencillo de manipular y reutilizar.
 
+###TAREA 24
+
+**Convertidor analógico digital**
+Es un dispositivo electrónico capaz de convertir una entrada analógica de voltaje en un valor binario. Se utiliza en equipos electrónicos como ordenadores, grabadores de sonido y de vídeo, y equipos de telecomunicaciones.
+
+**Transistor bipolar**
+El transistor bipolar es un dispositivo de tres terminales -emisor, colector y base-, que, atendiendo a su fabricación, puede ser de dos tipos: NPN y PNP. La  forma  de  distinguir un transistor de tipo NPN de un PNP es observando la flecha  del  terminal  de  emisor.  En  un  NPN  esta  flecha  apunta  hacia  fuera  del  transistor;  en  un  PNP  la  flecha  apunta  hacia  dentro.  Además,  en  funcionamiento  normal,  dicha  flecha  indica  el sentido de la corriente que circula por el emisor del transistor.
+
+**Frecuencia de muestreo**
+La tasa o frecuencia de muestreo es el número de muestras por unidad de tiempo que se toman de una señal continua para producir una señal discreta, durante el proceso necesario para convertirla de analógica en digital. Como todas las frecuencias, generalmente se expresa en hercios (Hz, ciclos por segundo) o múltiplos suyos.
+
+**Sistema binario**
+El sistema binario es una técnica de numeración donde solo se utilizan dos dígitos, el 0 y el 1. Suele emplearse particularmente en la informática.
+
+**Algebra booleana**
+En electrónica digital, informática y matemática es una estructura algebraica que esquematiza las operaciones lógicas.
+
 ###TAREA 25
 
 **Arquitectura cliente servidor**
