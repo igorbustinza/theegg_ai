@@ -291,3 +291,17 @@ Una red informática es un grupo de computadoras conectadas entre sí, dispuesta
 **Internet**
 Internet es un anglicismo que se forma por la abreviación del término International Network of Computers. Se trata de un sistema de redes interconectadas mediante distintos protocolos que ofrece una gran diversidad de servicios y recursos, como, por ejemplo, el acceso a archivos de hipertexto a través de la web.
 
+###TAREA 43
+
+**SQL**
+SQL (Structured Query Language) es un lenguaje de programación estándar e interactivo para la obtención de información desde una base de datos y para actualizarla. Aunque SQL es a la vez un ANSI y una norma ISO, muchos productos de bases de datos soportan SQL con extensiones propietarias al lenguaje estándar. Las consultas toman la forma de un lenguaje de comandos que permite seleccionar, insertar, actualizar, averiguar la ubicación de los datos, y más. También hay una interfaz de programación.
+
+**Bases de Datos Relacionales**
+Una base de datos relacional es una colección de elementos de datos organizados en un conjunto de tablas formalmente descritas desde la que se puede acceder a los datos o volver a montarlos de muchas maneras diferentes sin tener que reorganizar las tablas de la base. 
+
+**MySQL**
+MySQL es un gestor de bases de datos, y actualmente uno de los más usados y reconocidos del mercado. Especialmente en lo que se refiere a desarrollo web, está clasificada como la base de datos de código abierto más popular del mundo.
+Fue desarrollada inicialmente por MySQL AB, luego adquirida por Sun Microsystems y luego posteriormente por Oracle Coporation en 2010.
+
+**PostgreSQ**
+Es un gestor de bases de datos relacional y orientado a objetos. Su licencia y desarrollo es de código abierto, siendo mantenida por una comunidad de desarrolladores, colaboradores y organizaciones comerciales de forma libre y desinteresadamente. Esta comunidad es denominada PDGD (PostgreSQL Global Development Group, por sus siglas en inglés).
