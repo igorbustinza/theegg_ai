@@ -229,6 +229,17 @@ Una base de datos es una colección de información organizada de forma que un p
 Los datos pueden requerir técnicas de preprocesamiento con el fin de garantizar un análisis preciso, eficiente o significativo. La depuración de datos alude a todos aquellos métodos que se utilizan para buscar, eliminar y reemplazar datos incorrectos o ausentes. La detección de cambios de extremos locales y cambios abruptos puede ayudar a identificar tendencias de datos significativas. El suavizado y la eliminación de tendencia son procesos que se emplean para eliminar el ruido y las tendencias polinómicas de los datos, mientras que el escalado cambia los límites de los datos. Los métodos de agrupación y discretización identifican las características de los datos por grupos.
 
 
+
+###TAREA 33
+
+**Diagrama de flujo**
+Un diagrama de flujo es una forma esquemática de representar ideas y conceptos en relación. A menudo, se utiliza para especificar algoritmos de manera gráfica. 
+
+**Bucle en programación**
+También denominado lazo, ciclo o instrucción de repetición. Es una estructura de control que permite la repetición de una serie determinada de sentencias. El cuerpo del bucle contiene las sentencias que se repiten. La acción o acciones que se repiten en un bucle se denominan el cuerpo del bucle.
+
+
+
 ###TAREA 34
 
 **API**
