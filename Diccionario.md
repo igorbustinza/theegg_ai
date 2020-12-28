@@ -1,4 +1,4 @@
-# Diccionario theegg_ai
+##Diccionario theegg_ai
 
 ###TAREA 11
 
@@ -57,6 +57,7 @@ Es un ordenador de bajo coste y tamaño reducido, tanto es así que cabe en la p
 **Arduino** 
 Es una compañía de desarrollo de software y hardware libre, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos del mundo real. 
 
+
 ###TAREA 14
 
 **Compilador**
@@ -76,6 +77,7 @@ Es aquel que se aproxima más al lenguaje natural humano que al lenguaje binario
 
 **Lenguaje de máquina**
 Es el conjunto de datos que la parte física de la computadora (Hardware) es capaz de comprender e interpretar “El Código Binario” comprendido por los Valores 0 y 1 con tensiones comprendidas entre 0 y 4 Voltios y 4 y 5 Voltios respectivamente, la secuencias de estos valores formaran cadenas de información para que se realice una instrucción.
+
 
 ###TAREA 15
 
@@ -109,6 +111,7 @@ Un programa escrito en un lenguaje "compilado" se traduce a través de un progra
 **Lenguaje interpretado**
 Es el lenguaje cuyo código no necesita ser preprocesado mediante un compilador, eso significa que el ordenador es capaz de ejecutar la sucesión de instrucciones dadas por el programador sin necesidad de leer y traducir exhaustivamente todo el código. 
 
+
 ###TAREA 16
 
 **Repositorio de control de versiones**
@@ -116,6 +119,7 @@ Los sistemas de control de versiones son una categoría de herramientas de softw
 
 **Github**
  Es un sitio web y un servicio en la nube que ayuda a los desarrolladores a almacenar y administrar su código, al igual que llevar un registro y control de cualquier cambio sobre este código.
+
 
 ###TAREA 17
 
@@ -146,6 +150,7 @@ R es un entorno de programación formado por un conjunto de herramientas muy fle
 **SQL**
 SQL (Structured Query Language) es un lenguaje de programación estándar e interactivo para la obtención de información desde una base de datos y para actualizarla. Aunque SQL es a la vez un ANSI y una norma ISO, muchos productos de bases de datos soportan SQL con extensiones propietarias al lenguaje estándar. Las consultas toman la forma de un lenguaje de comandos que permite seleccionar, insertar, actualizar, averiguar la ubicación de los datos, y más. También hay una interfaz de programación.
 
+
 ###TAREA 21
 
 **Algoritmo**
@@ -153,6 +158,7 @@ Un algoritmo informático es una secuencia de instrucciones finitas que llevan a
 
 **Diagrama de flujo**
 Un diagrama de flujo es una forma esquemática de representar ideas y conceptos en relación. A menudo, se utiliza para especificar algoritmos de manera gráfica. 
+
 
 ###TAREA 22
 
@@ -165,6 +171,7 @@ También denominado lazo, ciclo o instrucción de repetición. Es una estructura
 **Lenguaje de programación**
 Es un idioma artificial diseñado para expresar computaciones que pueden ser llevadas a cabo por máquinas como las computadoras. Pueden usarse para crear programas que controlen el comportamiento físico y lógico de una máquina, para expresar algoritmos con precisión, o como modo de comunicación humana. 
 
+
 ###TAREA 23
 
 **Algoritmo de cifrado simétrico**
@@ -175,6 +182,7 @@ Fueron creados con la finalidad de dar solución al problema de intercambio de l
 
 **Funciones en programación**
 Son un elemento muy utilizado en la programación. Empaquetan y ‘aíslan’ del resto del programa, una parte de código que realiza alguna tarea específica. Son por tanto un conjunto de instrucciones que ejecutan una tarea determinada y que hemos encapsulado en un formato estándar para que nos sea muy sencillo de manipular y reutilizar.
+
 
 ###TAREA 24
 
@@ -192,6 +200,7 @@ El sistema binario es una técnica de numeración donde solo se utilizan dos dí
 
 **Algebra booleana**
 En electrónica digital, informática y matemática es una estructura algebraica que esquematiza las operaciones lógicas.
+
 
 ###TAREA 25
 
@@ -214,7 +223,6 @@ El proceso de traducción de los nombres de dominio en direcciones numéricas qu
 
 **Protocolo TCP/IP**
 Se denomina protocolo al conjunto de normas y reglas que sirven para guiar un proceso o una acción. TCP e IP, en tanto, son siglas que refieren a dos protocolos claves en Internet. TCP proviene de transmission control protocol, expresión que puede traducirse como “protocolo de control de transmisión”. IP, en tanto, es Internet protocol o “protocolo de Internet”.
-
 
 
 ###TAREA 31
@@ -294,6 +302,7 @@ Es la dirección IP que tiene asignada cualquier equipo o dispositivo conectado 
 **IP privada**
 Se utiliza para identificar equipos o dispositivos dentro de una red doméstica o privada, es decir, los dispositivos no están conectados directamente a Internet.
 
+
 ###TAREA 39
 
 **Red informática**
@@ -301,6 +310,69 @@ Una red informática es un grupo de computadoras conectadas entre sí, dispuesta
 
 **Internet**
 Internet es un anglicismo que se forma por la abreviación del término International Network of Computers. Se trata de un sistema de redes interconectadas mediante distintos protocolos que ofrece una gran diversidad de servicios y recursos, como, por ejemplo, el acceso a archivos de hipertexto a través de la web.
+
+
+###TAREA 40
+
+**Pen Testing**
+Las pruebas de penetración (también llamadas “pen testing”) son una práctica para poner a prueba un sistema informático, red o aplicación web para encontrar vulnerabilidades que un atacante podría explotar. Estas pruebas pueden ser automatizadas con aplicaciones de software, o se pueden realizar manualmente. De cualquier manera, el proceso incluye la recopilación de información sobre el objetivo antes de la prueba (reconocimiento), la identificación de posibles puntos de entrada, intentos de entrar (ya sea virtualmente o de manera real) y el reporte de los resultados.
+
+**XSS**
+Las secuencias de comandos en sitios cruzados o XSS (del inglés, cross-site scripting) son un tipo de vulnerabilidad de los sitios web que permite que los atacantes coloquen secuencias de comandos maliciosas en páginas web y aplicaciones de confianza que, a su vez, instalan malware en los navegadores web de los usuarios. Mediante el uso de secuencias de comandos en sitios cruzados, los hackers no atacan directamente a los usuarios ni les dirigen engañosamente a otros sitios, sino que distribuyen libremente su malware a miles de personas.
+
+**Inyección SQL**
+El término "inyección SQL" hace referencia a un ataque contra un sitio o aplicación web en el que se añade código de lenguaje de consulta estructurado (SQL) a un campo de entrada de un formulario web con el objetivo de acceder a una cuenta o modificar los datos.
+
+**Ataque Informático**
+Un ataque informático es un método por el cual un individuo, mediante un sistema informático, intenta tomar el control, desestabilizar o dañar otro sistema informático (ordenador, red privada, etc.).
+
+**Ataque DDoS**
+Los ataques de red distribuidos a menudo se conocen como ataques de denegación distribuida de servicio (DDoS). Este tipo de ataque aprovecha los límites de capacidad específicos que se aplican a cualquier recurso de red, tal como la infraestructura que habilita el sitio web de la empresa. El ataque DDoS envía varias solicitudes al recurso web atacado, con la intención de desbordar la capacidad del sitio web para administrar varias solicitudes y de evitar que este funcione correctamente.
+
+**Ingeniería Social**
+La ingeniería social es un tipo de técnicas empleadas por los cibercriminales que están diseñadas para engañar a los usuarios ingenuos para que envíen sus datos confidenciales, infectando sus ordenadores con malware o abriendo enlaces a sitios infectados. Además, los hackers podrían intentar aprovecharse de la falta de conocimientos del usuario; gracias a la velocidad de la tecnología, muchos consumidores y empleados no comprenden todo el valor de los datos personales y no está seguros de cuál es la mejor forma de proteger esta información.
+
+**Hacker**
+El término hacker puede tener una connotación positiva o negativa dependiendo de la definición. En un sentido negativo, los hackers son personas o grupos que obtienen acceso no autorizado a sitios web explotando vulnerabilidades existentes. En un sentido positivo, los hackers son profesionales de la informática que descubren los puntos débiles de las aplicaciones informáticas y ayudan a resolverlos. En un contexto amplio, los hackers son tecnófilos que disfrutan encontrando soluciones a tareas complejas. 
+
+**Cracker**
+Cracker es el término que define a programadores maliciosos y ciberpiratas que actúan con el objetivo de violar ilegal o inmoralmente sistemas cibernéticos, siendo un término creado en 1985 por hackers en defensa del uso periodístico del término.
+
+**Man In The Middle**
+Un ataque Man in the Middle o ataque de intermediario es el método por el cual un hacker interviene en el tráfico de datos de dos partes vinculadas entre sí en una comunicación haciéndose pasar por cualquiera de ellas, haciéndoles creer que se están comunicando entre ellos cuando en realidad es el intermediario quien recibe la comunicación.
+
+**Phising**
+El termino Phishing es utilizado para referirse a uno de los métodos mas utilizados por delincuentes cibernéticos para estafar y obtener información confidencial de forma fraudulenta como puede ser una contraseña o información detallada sobre tarjetas de crédito u otra información bancaria de la victima.
+
+El estafador, conocido como phisher, se vale de técnicas de ingeniería social, haciéndose pasar por una persona o empresa de confianza en una aparente comunicación oficial electrónica, por lo general un correo electrónico, o algún sistema de mensajería instantánea, redes sociales SMS/MMS, a raíz de un malware o incluso utilizando también llamadas telefónicas.
+
+
+###TAREA 42
+
+**Código fuente**
+Conjunto de líneas de textos, que son las directrices que debe seguir la computadora para realizar un programa; por lo que es en el código fuente, donde se encuentra escrito el funcionamiento de la computadora.
+
+**AJAX**
+AJAX, acrónimo de Asynchronous JavaScript And XML (JavaScript asíncrono y XML), es una técnica de desarrollo web para crear aplicaciones interactivas o RIA (Rich Internet Applications). Estas aplicaciones se ejecutan en el cliente, es decir, en el navegador de los usuarios mientras se mantiene la comunicación asíncrona con el servidor en segundo plano. De esta forma es posible realizar cambios sobre las páginas sin necesidad de recargarlas, lo que significa aumentar la interactividad, velocidad y usabilidad en las aplicaciones.
+
+**HTML**
+HTML es el lenguaje con el que se define el contenido de las páginas web. Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, vídeos, etc. 
+
+**Javascript**
+Javascript es un lenguaje de programación que permite llevar a cabo actividades tanto simples como complejas en páginas web. Es un sistema que goza de la peculiaridad de no necesitar compilación alguna, ya que son los propios navegadores los que se encargan de leer el código para asimilarlo y llevar a cabo las acciones que este indica. A día de hoy es el estándar cuando se quieren plantear mecanismos más complicados de lo habitual en una web.
+
+**CSS**
+CSS (en inglés Cascading Style Sheets) es lo que se denomina lenguaje de hojas de estilo en cascada y se usa para estilizar elementos escritos en un lenguaje de marcado como HTML. CSS separa el contenido de la representación visual del sitio.
+
+**Síncrono**
+ Una comunicación será sincrona cuando existe alguien que emite y alguien que recibe a la vez. En general tanto el emisor como el receptor están pendientes a la vez de esa comunicación.
+
+**Asíncrono**
+ La comunicación asíncrona es un método de intercambio de mensajes entre dos o más partes, en la que cada parte recibe y procesa el mensaje cuando sea conveniente o posible de realizar, en vez de hacerlo inmediatamente al recibirlo. Adicionalmente, los mensajes pueden ser enviados sin esperar el acuse de recibo de los mismos, bajo el entendimiento de que si ocurre algún problema, quien los recibe solicitará las correcciones o manejara la situación.
+
+**Interfaz**
+El término interfaz se emplea para nombrar a la conexión funcional que existe entre dos programas, sistemas o dispositivos, que brinda una comunicación de diversos niveles, haciendo posible un intercambio de información. Existen dos tipos de interfaces: las interfaces de usuario y las interfaces físicas.
+
 
 ###TAREA 43
 
