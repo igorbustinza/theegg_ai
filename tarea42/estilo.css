@@ -1,0 +1,42 @@
+body, html {
+  margin: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: inherit;
+  overflow: hidden;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: rgba(206,232,240,0.2);
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+  color: #FFFFFF;
+}
+
+
+.hints span {
+  background-color: rgba(0,255,0,0.2);
+}
+
+
+.output {
+  background-color: rgba(128,255,0);
+  color: #000000;
+}
+
