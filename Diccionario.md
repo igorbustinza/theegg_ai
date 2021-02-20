@@ -388,3 +388,21 @@ Fue desarrollada inicialmente por MySQL AB, luego adquirida por Sun Microsystems
 
 **PostgreSQ**
 Es un gestor de bases de datos relacional y orientado a objetos. Su licencia y desarrollo es de código abierto, siendo mantenida por una comunidad de desarrolladores, colaboradores y organizaciones comerciales de forma libre y desinteresadamente. Esta comunidad es denominada PDGD (PostgreSQL Global Development Group, por sus siglas en inglés).
+
+###TAREA 46
+
+**Estadística Descriptiva**
+La estadística descriptiva es una disciplina que se encarga de recoger, almacenar, ordenar, realizar tablas o gráficos y calcular parámetros básicos sobre el conjunto de datos.
+
+**Análisis exploratorio**
+Es un método de análisis de los conjuntos de datos para resumir sus principales características. Se utiliza para ver lo que los datos pueden decirnos antes de la tarea de modelación.
+
+**Dato estructurado**
+Es un término utilizado en la parte semántica de Internet. Permite a los motores de búsqueda posicionar con precisión la información estructurada de las páginas web y enriquecerla. Los datos estructurados se utilizan para crear vínculos entre la información. 
+
+**Dato semiestructurado**
+Los datos semiestructurados son datos que no se han organizado en un repositorio especializado, como una base de datos, pero que, sin embargo, tienen información asociada, como metadatos, que hace que sea más fácil de procesar que los datos sin procesar.
+
+**Dato no estructurado**
+Los datos no estructurados no están organizados de manera discernible y no tienen un modelo de datos asociado.
+
