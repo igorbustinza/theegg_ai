@@ -406,3 +406,25 @@ Los datos semiestructurados son datos que no se han organizado en un repositorio
 **Dato no estructurado**
 Los datos no estructurados no están organizados de manera discernible y no tienen un modelo de datos asociado.
 
+###TAREA 51
+
+**Sistema Operativo**
+El sistema operativo es el software que coordina y dirige todos los servicios y aplicaciones que utiliza el usuario, por eso es el más importante y fundamental en una computadora. Se trata de programas que permiten y regulan los aspectos más básicos del sistema. Los sistemas operativos más utilizados son Windows, Linux, OS/2 y DOS.
+
+**Linux**
+Linux o GNU/Linux  es un sistema operativo de software libre multiplataforma creado por  el finlandés Linus Tovalds. Su software libre implica que no es propiedad de ninguna persona o empresa y el código fuente es visible para cualquiera por lo que  puede ser modificado a placer por cualquier persona. Además es un sistema multiplataforma, multiusuario y multitarea, proporcionando la interfaz de comandos y la interfaz gráfica.
+
+**CPU**
+CPU son las siglas en ingles de Central Processing Unit (Unidad de Proceso Central), El CPU es el cerebro del ordenador, referimos a la parte de la computadora en la que se controlan y originan comandos directos que generan las diferentes funciones de la CPU. En el CPU se hacen todos los cálculos del código binario de la computadora. En general, es la parte más importante del sistema.
+
+**GPU**
+GPU (Graphics Processing Unit o Unidad de procesamiento gráfico) es un coprocesador dedicado al procesamiento de gráficos u operaciones de coma flotante, para aligerar la carga de trabajo del procesador central (CPU) en aplicaciones como los videojuegos o aplicaciones 3D interactivas.
+
+**Periférico**
+Se denomina periféricos a los aparatos y/o dispositivos auxiliares e independientes conectados a la unidad central de procesamiento de una computadora.
+
+**Terminal**
+Dispositivo electrónico o electromecánico que se utiliza para interactuar con un computador.
+
+**Interfaz**
+El término interfaz se emplea para nombrar a la conexión funcional que existe entre dos programas, sistemas o dispositivos, que brinda una comunicación de diversos niveles, haciendo posible un intercambio de información. Existen dos tipos de interfaces: las interfaces de usuario y las interfaces físicas.
